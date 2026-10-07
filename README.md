@@ -25,6 +25,7 @@ I'm a **BS Information Systems student at the Technological University of the Ph
 ## 🎯 Goal
 To keep learning, build useful systems, and grow as an IT professional.
 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nixiousw) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/nixxlow) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nixloww_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/nicholai-santos-768085338/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snic243@gmail.com) 
 
@@ -36,7 +37,7 @@ To keep learning, build useful systems, and grow as an IT professional.
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nixloww&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nixloww&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
